@@ -35,7 +35,6 @@ Anna had become the first person to develop a book with photographic images thro
 <param ve-map center="Q188617" zoom="10">
 <param ve-map center="Q23308" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
-
 <br><br>
 
 
