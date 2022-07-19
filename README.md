@@ -30,7 +30,7 @@ With Anna’s fathers link to the Royal Society, she was well acquainted with Wi
 
 Anna had become the first person to develop a book with photographic images through the use of her calotypes. Not only that, but Anna also catalogued an extensive range of algae and other plants, notably producing three volumes of her book, and supplying specimens to Kew Gardens for a renowned botanist. Books published by Anna are rare as they were published personally and then distributed to the recipients who then bound them themselves. The Horniman is an example of this, being bound into 4 books for each volume that only has seventeen copies that still exist, these being held in places such as the British Library, the Royal Society and Kew Gardens.
 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3c/Royal_Botanical_Gardens%2C_Kew_20160831.jpg" attribution="Suicasmo, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">
 <param ve-map center="Q188617" zoom="10">
 <param ve-map center="Q23308" zoom="10">
 <param ve-map center="Q59013249" zoom="10">
@@ -47,5 +47,5 @@ John George Children, Anna Atkins’s father, was a chemist, mineralogist and zo
 <param ve-map center="Q99678204" zoom="10">
 <br><br>
 
-
+John George Children was a respected member of the scientific community due to his method of extracting silver from ore without the need for mercury, he was also the founding president of the Royal Entomological Society.
 
