@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="Anna Atkins" author="" layout="vtl" banner="">
+<param ve-config title="Anna Atkins" author="Trinity Barber" layout="vtl" banner="/images/banners/16c.jpg">
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q99678204" aliases="Halstead Place">
