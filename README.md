@@ -49,3 +49,4 @@ John George Children, Anna Atkins’s father, was a chemist, mineralogist and zo
 
 John George Children was a respected member of the scientific community due to his method of extracting silver from ore without the need for mercury, he was also the founding president of the Royal Entomological Society.
 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/TransEntSocLond1850Plate10.jpg" attribution="Hewitson 1850, Public domain, via Wikimedia Commons">
