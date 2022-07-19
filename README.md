@@ -4,6 +4,7 @@
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q99678204" aliases="Halstead Place">
+<param ve-entity eid="Q6373" aliases="the British Museum">
 
 #
 
@@ -17,6 +18,7 @@ Anna had first worked with her father, in her early 20’s illustrating her fath
 
 <br><br>
 
-
+Anna had first worked with her father, in her early 20’s illustrating her father’s translation of Genera of Shells, by Jean Baptiste de Lamarck. Although scientific work was mostly inaccessible to women of the time, due to her father’s link to Royal Sociality and his work at the British Museum she was able to have access to work within botany, as well as due to botany being more open to women than other sciences. 
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
+<param ve-map center="Q6373" zoom="10">
