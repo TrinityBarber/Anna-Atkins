@@ -9,7 +9,7 @@
 <param ve-entity eid="Q188617" aliases="Kew Gardens">
 <param ve-entity eid="Q59013249" aliases="The Royal Society">
 <param ve-entity eid="Q23308" aliases="The British Liabrary">
-<param ve-entity eid="Q6226" aliases="St Albans| The Mansion House">
+<param ve-entity eid="Q6226" aliases="St Albans| the Royal Entomological Society">
 
 #
 
