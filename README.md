@@ -7,6 +7,8 @@
 <param ve-entity eid="Q6373" aliases="the British Museum">
 <param ve-entity eid="Q2035885" aliases="Halstead">
 <param ve-entity eid="Q188617" aliases="Kew Gardens">
+<param ve-entity eid="Q59013249" aliases="The Royal Society">
+<param ve-entity eid="Q23308" aliases="The British Liabrary">
 
 #
 
@@ -26,10 +28,12 @@ With Anna’s fathers link to the Royal Society, she was well acquainted with Wi
 <param ve-map center="Q6373" zoom="10">
 <br><br>
 
-Anna had become the first person to develop a book with photographic images through the use of her calotypes. Not only that, but Anna also catalogued an extensive range of algae and other plants, notably producing three volumes of her book, and supplying specimens to Kew Gardens for a renowned botanist.
+Anna had become the first person to develop a book with photographic images through the use of her calotypes. Not only that, but Anna also catalogued an extensive range of algae and other plants, notably producing three volumes of her book, and supplying specimens to Kew Gardens for a renowned botanist. Books published by Anna are rare as they were published personally and then distributed to the recipients who then bound them themselves. The Horniman is an example of this, being bound into 4 books for each volume that only has seventeen copies that still exist, these being held in places such as the British Library, the Royal Society and Kew Gardens.
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
 <param ve-map center="Q188617" zoom="10">
+<param ve-map center="Q23308" zoom="10">
+<param ve-map center="Q59013249" zoom="10">
 
 <br><br>
 
