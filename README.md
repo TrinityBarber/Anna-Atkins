@@ -1,11 +1,12 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config title="Anna Atkins" author="xx" layout="vtl" banner="">
+<param ve-config title="Anna Atkins" author="" layout="vtl" banner="">
 
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q99678204" aliases="Halstead Place">
 <param ve-entity eid="Q6373" aliases="the British Museum">
 <param ve-entity eid="Q2035885" aliases="Halstead">
+<param ve-entity eid="Q188617" aliases="Kew Gardens">
 
 #
 
@@ -19,11 +20,19 @@ Anna had first worked with her father, in her early 20’s illustrating her fath
 <br><br>
 
 Anna had first worked with her father, in her early 20’s illustrating her father’s translation of Genera of Shells, by Jean Baptiste de Lamarck. Although scientific work was mostly inaccessible to women of the time, due to her father’s link to Royal Sociality and his work at the British Museum she was able to have access to work within botany, as well as due to botany being more open to women than other sciences. 
-With Anna’s fathers link to the Royal Society, she was well acquainted with William henry fox talbot and Sir John Herschel, the inventor of the calotype processes, used famously by Anna Atkins in botany studies, and the photographic process. Anna was gifted a camera in 1841, although none of the photos taken with the camera has survived. Though calotype was of greater interest to Anna, as she implemented calotype into her work in botany, making negative prints of plants. Anna later self-published these works in 1843 in her book Photographs of British Algae: Cyanotype Impressions.
+With Anna’s fathers link to the Royal Society, she was well acquainted with William henry fox talbot and Sir John Herschel, the inventor of the calotype processes, used famously by Anna Atkins in botany studies, and the photographic process. Anna was gifted a camera in 1841, although none of the photos taken with the camera has survived. Though calotype was of greater interest to Anna, as she implemented calotype into her work in botany, making calotype prints of plants. Anna later self-published these works in 1843 in her book Photographs of British Algae: Cyanotype Impressions.
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6373" zoom="10">
 <br><br>
+
+Anna had become the first person to develop a book with photographic images through the use of her calotypes. Not only that, but Anna also catalogued an extensive range of algae and other plants, notably producing three volumes of her book, and supplying specimens to Kew Gardens for a renowned botanist.
+
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
+<param ve-map center="Q188617" zoom="10">
+
+<br><br>
+
 
 **John George Children**
 <br><br>
@@ -33,10 +42,6 @@ John George Children, Anna Atkins’s father, was a chemist, mineralogist and zo
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
 <br><br>
-
-
-
-
 
 
 
