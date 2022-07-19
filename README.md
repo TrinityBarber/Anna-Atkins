@@ -26,8 +26,17 @@ With Anna’s fathers link to the Royal Society, she was well acquainted with Wi
 <br><br>
 
 **John George Children**
+<br><br>
 John George Children, Anna Atkins’s father, was a chemist, mineralogist and zoologist born on the 18 May 1777 in Tonbridge and died on the 1 January 1852 in Halstead. In 1789 he married Hester Anna Holwell, born on the 25 March 1777 in Timberscombe and died 15 November 1800 in Tonbridge, shortly after the birth of Anna Atkins. John then remarried in 1809 to Caroline, the daughter of George Furlong Wise of Woolston but died the following year.Then once again marring in 1819 to a Mrs. Towers who died in 1839.
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/John_George_Children.jpg" attribution="Benjamin Rawlinson Faulkner (1787-1849), Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
+<br><br>
+
+
+
+
+
+
+
