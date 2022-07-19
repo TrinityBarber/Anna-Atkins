@@ -9,6 +9,7 @@
 <param ve-entity eid="Q188617" aliases="Kew Gardens">
 <param ve-entity eid="Q59013249" aliases="The Royal Society">
 <param ve-entity eid="Q23308" aliases="The British Liabrary">
+<param ve-entity eid="Q6226" aliases="St Albans| The Mansion House">
 
 #
 
@@ -50,3 +51,4 @@ John George Children, Anna Atkins’s father, was a chemist, mineralogist and zo
 John George Children was a respected member of the scientific community due to his method of extracting silver from ore without the need for mercury, he was also the founding president of the Royal Entomological Society in 1833 and is recognised for their scientific contributions even today. The society was open to all and was even frequented by Charles Darwin after returnig from a voyage, having 117 honorary members and 10 full members in 1849, allowing women to join and even have the same rights as men within the society 
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/TransEntSocLond1850Plate10.jpg" attribution="Hewitson 1850, Public domain, via Wikimedia Commons">
+<param ve-map center="Q6226" zoom="10">
