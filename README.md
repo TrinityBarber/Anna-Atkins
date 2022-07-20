@@ -7,7 +7,7 @@
 <param ve-entity eid="Q6373" aliases="the British Museum">
 <param ve-entity eid="Q2035885" aliases="Halstead">
 <param ve-entity eid="Q188617" aliases="Kew Gardens">
-<param ve-entity eid="Q64335237" aliases="The Royal Society">
+<param ve-entity eid="Q59013249" aliases="The Royal Society">
 <param ve-entity eid="Q23308" aliases="The British Liabrary">
 <param ve-entity eid="Q6226" aliases="St Albans | the Royal Entomological Society">
 <param ve-entity eid="Q26645227" aliases="Ferox Hall">
@@ -22,7 +22,7 @@ Anna had first worked with her father, in her early 20’s illustrating her fath
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
 <param ve-map center="Q6373" zoom="10">
-<param ve-map center="Q64335237" zoom="10">
+<param ve-map center="Q59013249" zoom="10">
 <br><br>
 
 Anna had first worked with her father, in her early 20’s illustrating her father’s translation of Genera of Shells, by Jean Baptiste de Lamarck. Although scientific work was mostly inaccessible to women of the time, due to her father’s link to Royal Sociality and his work at the British Museum she was able to have access to work within botany, as well as due to botany being more open to women than other sciences. 
