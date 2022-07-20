@@ -10,16 +10,19 @@
 <param ve-entity eid="Q59013249" aliases="The Royal Society">
 <param ve-entity eid="Q23308" aliases="The British Liabrary">
 <param ve-entity eid="Q6226" aliases="St Albans| the Royal Entomological Society">
+<param ve-entity eid="Q26645227" aliases="Ferox Hall">
 
 #
 
 **Anna Atkins**
 <br><br>
 Anna Atkins was a British botanist and photographer born on the 16 March 1799, in Tonbridge, and died on the 9 June 1871, in Halstead Place. Anna married John Pelly Atkins in 1825. Due to her mother’s death when she was young, Anna become close to her father, John George Children, who was a respected scientist.
-Anna had first worked with her father, in her early 20’s illustrating her father’s translation of Genera of Shells, by Jean Baptiste de Lamarck. Although scientific work was mostly inaccessible to women of the time, due to her father’s link to Royal Sociality and his work at the British Museum she was able to have access to work within botany, as well as due to botany being more open to women than other sciences. 
+Anna had first worked with her father, in her early 20’s illustrating her father’s translation of Genera of Shells, by Jean Baptiste de Lamarck. Although scientific work was mostly inaccessible to women of the time, due to her father’s link to the Royal Society and his work at the British Museum she was able to have access to work within botany, as well as due to botany being more open to women than other sciences. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/48/Anna_Atkins_1861.jpg" attribution="Unknown authorUnknown author, Public domain, via Wikimedia Commons">
 <param ve-map center="Q936183" zoom="10">
 <param ve-map center="Q99678204" zoom="10">
+<param ve-map center="Q6373" zoom="10">
+<param ve-map center="Q59013249" zoom="10">
 <br><br>
 
 Anna had first worked with her father, in her early 20’s illustrating her father’s translation of Genera of Shells, by Jean Baptiste de Lamarck. Although scientific work was mostly inaccessible to women of the time, due to her father’s link to Royal Sociality and his work at the British Museum she was able to have access to work within botany, as well as due to botany being more open to women than other sciences. 
@@ -27,6 +30,7 @@ With Anna’s fathers link to the Royal Society, she was well acquainted with Wi
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Anna_Atkins_-_New_Zealand_-_Google_Art_Project.jpg" attribution="Anna Atkins, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6373" zoom="10">
+<param ve-map center="Q59013249" zoom="10">
 <br><br>
 
 Anna had become the first person to develop a book with photographic images through the use of her calotypes. Not only that, but Anna also catalogued an extensive range of algae and other plants, notably producing three volumes of her book, and supplying specimens to Kew Gardens for a renowned botanist. Books published by Anna are rare as they were published personally and then distributed to the recipients who then bound them themselves. The Horniman is an example of this, being bound into 4 books for each volume that only has seventeen copies that still exist, these being held in places such as the British Library, the Royal Society and Kew Gardens.
@@ -51,4 +55,4 @@ John George Children was a respected member of the scientific community, Having 
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/TransEntSocLond1850Plate10.jpg" attribution="Hewitson 1850, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6226" zoom="10">
-<param ve-map center="Q936183" zoom="10">
+<param ve-map center="Q26645227" zoom="10">
