@@ -7,7 +7,7 @@
 <param ve-entity eid="Q6373" aliases="the British Museum">
 <param ve-entity eid="Q2035885" aliases="Halstead">
 <param ve-entity eid="Q188617" aliases="Kew Gardens">
-<param ve-entity eid="Q59013249" aliases="The Royal Society">
+<param ve-entity eid="Q59013249" aliases="The Royal Society of London">
 <param ve-entity eid="Q23308" aliases="The British Liabrary">
 <param ve-entity eid="Q6226" aliases="St Albans| the Royal Entomological Society">
 <param ve-entity eid="Q26645227" aliases="Ferox Hall">
