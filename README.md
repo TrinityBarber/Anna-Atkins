@@ -58,7 +58,7 @@ John George Children was a respected member of the scientific community, Having 
 <param ve-map center="Q26645227" zoom="10">
 
 
-###References
+### References
 
 [^ref1]: https://www.europeana.eu/en/blog/photography-pioneer-anna-atkins-algae-cyanotypes
 [^ref2]: https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html#:~:text=Anna%20was%20born%20in%20Kent,worked%20at%20the%20British%20Museum.&text='She%20lost%20her%20mother%20very,her%20father%2C'%20Andrea%20says.
