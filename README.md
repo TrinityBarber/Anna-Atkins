@@ -56,3 +56,13 @@ John George Children was a respected member of the scientific community, Having 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/TransEntSocLond1850Plate10.jpg" attribution="Hewitson 1850, Public domain, via Wikimedia Commons">
 <param ve-map center="Q6226" zoom="10">
 <param ve-map center="Q26645227" zoom="10">
+
+
+###References
+
+[^ref1]: https://www.europeana.eu/en/blog/photography-pioneer-anna-atkins-algae-cyanotypes
+[^ref2]: https://www.nhm.ac.uk/discover/anna-atkins-cyanotypes-the-first-book-of-photographs.html#:~:text=Anna%20was%20born%20in%20Kent,worked%20at%20the%20British%20Museum.&text='She%20lost%20her%20mother%20very,her%20father%2C'%20Andrea%20says.
+[^ref3]: https://www.britannica.com/biography/Anna-Atkins
+[^ref4]: https://embryo.asu.edu/pages/john-george-children-1777-1852
+[^ref5]: https://www.horniman.ac.uk/story/celebrating-women-in-science-anna-atkins/
+
